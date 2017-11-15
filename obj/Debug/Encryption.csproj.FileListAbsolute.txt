@@ -1,0 +1,6 @@
+C:\Users\yy_yu\OneDrive\Belgeler\Visual Studio 2017\Projects\EncrpytionTester\Encryption\bin\Debug\Encryption.dll
+C:\Users\yy_yu\OneDrive\Belgeler\Visual Studio 2017\Projects\EncrpytionTester\Encryption\bin\Debug\Encryption.pdb
+C:\Users\yy_yu\OneDrive\Belgeler\Visual Studio 2017\Projects\EncrpytionTester\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+C:\Users\yy_yu\OneDrive\Belgeler\Visual Studio 2017\Projects\EncrpytionTester\Encryption\obj\Debug\Encryption.csproj.GenerateResource.Cache
+C:\Users\yy_yu\OneDrive\Belgeler\Visual Studio 2017\Projects\EncrpytionTester\Encryption\obj\Debug\Encryption.dll
+C:\Users\yy_yu\OneDrive\Belgeler\Visual Studio 2017\Projects\EncrpytionTester\Encryption\obj\Debug\Encryption.pdb

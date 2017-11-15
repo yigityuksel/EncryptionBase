@@ -1,0 +1,7 @@
+C:\Users\y.yuksel\Desktop\Encryption\bin\Debug\Encryption.dll
+C:\Users\y.yuksel\Desktop\Encryption\bin\Debug\Encryption.pdb
+C:\Users\y.yuksel\Desktop\Encryption\obj\Debug\EncryptionHandler.csprojResolveAssemblyReference.cache
+C:\Users\y.yuksel\Desktop\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+C:\Users\y.yuksel\Desktop\Encryption\obj\Debug\EncryptionHandler.csproj.GenerateResource.Cache
+C:\Users\y.yuksel\Desktop\Encryption\obj\Debug\Encryption.dll
+C:\Users\y.yuksel\Desktop\Encryption\obj\Debug\Encryption.pdb
